@@ -5,7 +5,7 @@
 	<groupId>org.xbpm</groupId>
 	<artifactId>xbpm-parent</artifactId>
 	<packaging>pom</packaging>
-	<name>XBpm Integration</name>
+	<name>XBpm</name>
 	<version>5.0.0</version>
 	<properties>
 		<file_encoding>utf8</file_encoding>
